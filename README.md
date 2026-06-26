@@ -1,6 +1,7 @@
 # Landing Page Advocacia
 
 Este projeto é uma landing page moderna, responsiva e de alta conversão, desenvolvida especificamente para advogados(as) e escritórios de advocacia, visando a divulgação dos serviços jurídicos oferecidos e a construção de autoridade digital.
+<img width="1487" height="902" alt="lp-adv" src="https://github.com/user-attachments/assets/185c2af1-b003-4ba7-8836-fb5d0ecd038c" />
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -42,14 +43,16 @@ A página foi estrategicamente desenhada em seções modulares para guiar o visi
 
 ## 🎥 Demonstração
 
-<!-- O vídeo de demonstração da landing page deve ser inserido abaixo -->
-![Demonstração da Landing Page](https://youtu.be/fsBdbVYLf1w)
+[![Demonstração da Landing Page](https://img.youtube.com/vi/fsBdbVYLf1w/0.jpg)](https://youtu.be/fsBdbVYLf1w)
 
 ---
 
 ## 💻 Como Rodar Localmente
 
 1.  Clone este repositório.
+    ```bash
+    git clone https://github.com/Rigobertto/landing-page-adv.git
+    ```
 2.  Instale as dependências:
     ```bash
     npm install
