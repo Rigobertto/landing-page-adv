@@ -41,7 +41,7 @@ A página foi estrategicamente desenhada em seções modulares para guiar o visi
 9.  **Footer (`footer.tsx`)**: Rodapé com informações de contato, endereços e documentações legais.
 10. **Botão WhatsApp (`whatsapp-button.tsx`)**: Atalho fixo na tela para contato ágil via WhatsApp.
 
-## 🎥 Demonstração
+## 🎥 Vídeo de Demonstração
 
 [![Demonstração da Landing Page](https://img.youtube.com/vi/fsBdbVYLf1w/0.jpg)](https://youtu.be/fsBdbVYLf1w)
 
